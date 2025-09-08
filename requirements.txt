@@ -4,3 +4,9 @@ transformers
 torch
 streamlit
 requests
+pandas
+matplotlib
+folium
+streamlit-folium
+google-cloud-bigquery
+google-auth
